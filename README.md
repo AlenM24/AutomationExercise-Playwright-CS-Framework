@@ -26,10 +26,10 @@ An end-to-end test automation framework built with C# (.NET 8.0), Microsoft Play
 
 ## Implemented Test Coverage
 
-[x] End-to-End User Registration (UI): Full multi-page signup flow, country selection, account confirmation, and navbar session verification.
+* [x] End-to-End User Registration (UI): Full multi-page signup flow, country selection, account confirmation, and navbar session verification.
 
-[x] Product Search & Cart Validation (UI): Catalog search, modal cart navigation, and line-item price/quantity assertions.
+* [x] Product Search & Cart Validation (UI): Catalog search, modal cart navigation, and line-item price/quantity assertions.
 
-[x] Negative Login Matrix (Data-Driven UI): Parameterized credential validation checking error state handling.
+* [x] Negative Login Matrix (Data-Driven UI): Parameterized credential validation checking error state handling.
 
-[x] Products & Search Endpoints (REST API): Automated GET /api/productsList and POST /api/searchProduct status and payload verification.
+* [x] Products & Search Endpoints (REST API): Automated GET /api/productsList and POST /api/searchProduct status and payload verification.
