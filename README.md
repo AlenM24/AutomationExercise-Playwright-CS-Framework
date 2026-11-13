@@ -1,8 +1,8 @@
-#AutomationExercise — C# Playwright UI & API Automation Framework
+# AutomationExercise — C# Playwright UI & API Automation Framework
 
 An end-to-end test automation framework built with C# (.NET 8.0), Microsoft Playwright, NUnit, and GitHub Actions CI/CD targeting a multi-screen e-commerce web application and its REST API layer.
 
-##Key Architectural Highlights
+## Key Architectural Highlights
 
 * **Modular Page Object Model (POM):** Strictly decoupled screen and component classes (SignupPage, AccountCreatedPage, LoginPage, ProductPage, CartPage, and NavbarComponent) keeping locators and UI interactions separate from test assertions.
 
